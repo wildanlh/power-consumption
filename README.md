@@ -1,1 +1,1 @@
-# Powe Consumption App
+# Power Consumption App
